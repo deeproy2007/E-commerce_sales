@@ -55,11 +55,12 @@ The data is used across **SQL, Python, and Power BI** for analysis and visualiza
    ├── Screenshot (74).png
    ├── Screenshot (75).png
    ├── Screenshot (76).png
+├── E-commerce.sql
 ├──Ecommerce.csv
-├── E-commerce.sql              # SQL queries for business analysis
+├── README.md              # SQL queries for business analysis
 ├── main.ipynb              # Python data analysis notebook
 ├── ecommerce_dashboard.pbix    # Power BI dashboard file
-├── README.md                   # Project documentation
+                 # Project documentation
 ```
 
 ---
@@ -164,6 +165,7 @@ The Power BI dashboard provides a **visual summary of business performance**.
 
 **Deep Roy**
 Aspiring Data Analyst 
+
 
 
 
