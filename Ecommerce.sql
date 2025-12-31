@@ -171,4 +171,4 @@ SELECT
     MAX(Total_Amount),
     AVG(Total_Amount)
 FROM ecommercep;
--- Why this metric matters:
+
